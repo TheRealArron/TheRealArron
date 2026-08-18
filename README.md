@@ -47,7 +47,7 @@ Common stack items across my projects: Next.js, TypeScript, Tailwind CSS, Go (1.
 
 - GitHub: https://github.com/TheRealArron
 - Email: arronreginofficial@gmail.com
-- Twitter / Mastodon / LinkedIn: add links here
+- LinkedIn: linkedin.com/in/arron-regin-630883323
 
 ---
 
