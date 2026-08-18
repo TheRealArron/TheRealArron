@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Champions Badge](https://devsprint-lime.vercel.app/api/badge/GDGSDS26-jRHg8gTK.svg)](https://devsprint-lime.vercel.app/verify/GDGSDS26-jRHg8gTK)
+
 <!--
 **TheRealArron/TheRealArron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
