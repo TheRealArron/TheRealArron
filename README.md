@@ -51,14 +51,4 @@ Common stack items across my projects: Next.js, TypeScript, Tailwind CSS, Go (1.
 
 ---
 
-### 📝 How to update this README
-
-1. Clone your profile repo: `git clone https://github.com/TheRealArron/TheRealArron.git`
-2. Edit README.md locally and commit: `git add README.md && git commit -m "chore: update profile README"`
-3. Push: `git push`
-
-If you want, I can update the Featured projects list to include different repos, change wording, or add badges and a live stats card — tell me which repos to feature or say "auto-fill pinned repos" and I'll refresh it.
-
----
-
 Thanks for visiting! 👋
