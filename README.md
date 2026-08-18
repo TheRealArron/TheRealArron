@@ -8,13 +8,13 @@ Hello — I’m Arron (TheRealArron). Welcome to my GitHub profile! I use this s
 
 ### 🚀 Featured projects
 
-Below are a few repositories I want to highlight. Replace these entries with short, one-line descriptions for each of your projects so visitors can quickly see what you build.
+A quick tour of some public repositories I maintain — click to explore.
 
-- [repo-name-1](https://github.com/TheRealArron/repo-name-1) — Short description of what this project does and why it's interesting.
-- [repo-name-2](https://github.com/TheRealArron/repo-name-2) — Short description, tech used, or status (WIP, archived).
-- [repo-name-3](https://github.com/TheRealArron/repo-name-3) — One-line summary + link to demo or docs if available.
+- [Fitdle](https://github.com/TheRealArron/Fitdle) — A fitness-themed daily deduction game (Next.js + TypeScript + Tailwind). Guess the exercise in six tries; includes practice mode, coach guidance, and verified tests/CI.
+- [sentinel-rag](https://github.com/TheRealArron/sentinel-rag) — Bilingual (EN/日本語) AI-powered SecOps engine: Go ingestor for high-throughput log parsing and a Python RAG engine for cited, bilingual alerts (on-premise, privacy-first).
+- [InvoiceDataExtraction](https://github.com/TheRealArron/InvoiceDataExtraction) — Python prototype for extracting structured fields from invoices (fields, parsing utilities, and extraction pipelines).
 
-Tip: To pick projects automatically, use GitHub's "Pinned" repositories on your profile and link to them here.
+Tip: You can pin repositories on your GitHub profile and I can auto-fill this list from your pinned repos if you prefer.
 
 ---
 
@@ -26,27 +26,25 @@ Tip: To pick projects automatically, use GitHub's "Pinned" repositories on your 
 ![Arron's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealArron&show_icons=true&theme=radical)
 -->
 
-You can enable the card above by removing the HTML comment markers and ensuring the external service is acceptable to you.
-
 ---
 
 ### 🧭 How to find my work
 
 - Full list of repositories: https://github.com/TheRealArron?tab=repositories
-- Projects I’m actively maintaining: replace this line with links or a short list.
+- Active or notable projects are listed above.
 
 ---
 
 ### 🛠 Tech & tools I use
 
-This README is written in Markdown. For project-level tech stacks, list the languages or frameworks here (e.g., Node.js, Python, Next.js, Rust).
+Common stack items across my projects: Next.js, TypeScript, Tailwind CSS, Go (1.22), Python (3.10+), ChromaDB, embeddings, and a variety of LLM tooling for RAG/analysis.
 
 ---
 
 ### ✉️ Contact
 
 - GitHub: https://github.com/TheRealArron
-- Email: replace-me@example.com
+- Email: arronreginofficial@gmail.com
 - Twitter / Mastodon / LinkedIn: add links here
 
 ---
@@ -54,10 +52,10 @@ This README is written in Markdown. For project-level tech stacks, list the lang
 ### 📝 How to update this README
 
 1. Clone your profile repo: `git clone https://github.com/TheRealArron/TheRealArron.git`
-2. Edit README.md locally and commit: `git add README.md && git commit -m "chore: improve profile README"`
+2. Edit README.md locally and commit: `git add README.md && git commit -m "chore: update profile README"`
 3. Push: `git push`
 
-If you want, I can update the README for you with a filled-in Featured projects list — tell me which repos and a one-line description for each.
+If you want, I can update the Featured projects list to include different repos, change wording, or add badges and a live stats card — tell me which repos to feature or say "auto-fill pinned repos" and I'll refresh it.
 
 ---
 
