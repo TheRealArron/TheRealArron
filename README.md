@@ -2,6 +2,8 @@
 
 [![Champions Badge](https://devsprint-lime.vercel.app/api/badge/GDGSDS26-jRHg8gTK.svg)](https://devsprint-lime.vercel.app/verify/GDGSDS26-jRHg8gTK)
 
+*This badge was awarded at the Waseda × VTU GDGoC Hackathon (Champions Badge).* 
+
 Hello — I’m Arron (TheRealArron). Welcome to my GitHub profile! I use this space to showcase projects I'm building, experiments I’m trying, and tools I find useful.
 
 ---
