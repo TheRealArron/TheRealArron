@@ -16,8 +16,6 @@ A quick tour of some public repositories I maintain — click to explore.
 - [sentinel-rag](https://github.com/TheRealArron/sentinel-rag) — Bilingual (EN/日本語) AI-powered SecOps engine: Go ingestor for high-throughput log parsing and a Python RAG engine for cited, bilingual alerts (on-premise, privacy-first).
 - [InvoiceDataExtraction](https://github.com/TheRealArron/InvoiceDataExtraction) — Python prototype for extracting structured fields from invoices (fields, parsing utilities, and extraction pipelines).
 
-Tip: You can pin repositories on your GitHub profile and I can auto-fill this list from your pinned repos if you prefer.
-
 ---
 
 ### 📦 Quick stats
